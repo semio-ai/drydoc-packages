@@ -5,7 +5,7 @@
     "target_artifacts": {
       "x86_64-unknown-linux-gnu": {
         "url": "https://semio-ai.github.io/drydoc-packages/test/1.0.0/test.tar.lz4",
-        "sha256": "bd3ad428353386420bc46bbf8940a4b69b167e7a7c3b71c739349900114b658f"
+        "sha256": "d78a05f7c2eaf0465fe36b50af28b9a6fb53edf118b2e9e01504a16759d8e2d0"
       }
     }
   }]
