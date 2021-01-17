@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "versions": [{
+    "version": "1.0.0",
+    "target_artifacts": {
+      "x86_64-unknown-linux-gnu": {
+        "url": "http://semio-ai.github.com/drydoc-packages/test/1.0.0/test.tar.lz4"
+      }
+    }
+  }]
+}
